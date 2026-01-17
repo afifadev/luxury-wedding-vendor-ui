@@ -3,7 +3,7 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "afifa & deri",
+    name: "afifa",
     location: "jakarta",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
     text: "Pernikahan kami benar-benar seperti mimpi yang menjadi kenyataan. Tim sangat profesional dan detail dalam setiap aspek. Terima kasih sudah mewujudkan hari terbaik dalam hidup kami!",
